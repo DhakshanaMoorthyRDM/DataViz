@@ -10,5 +10,6 @@ ydata-profiling
 scikit-learn
 folium
 streamlit-folium
-pandas-profiling==3.0.0
-visions==0.7.1
+pandas-profiling==4.8.3
+visions==0.7.6
+pip install --upgrade pip
