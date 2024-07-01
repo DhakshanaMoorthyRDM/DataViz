@@ -5,10 +5,10 @@ matplotlib==3.8.4
 seaborn==0.13.2
 plotly==5.22.0
 numpy==1.26.4
+pandas-profiling==4.8.3
 wordcloud==1.9.3
 ydata-profiling==4.8.3
 scikit-learn==1.5.0
 folium==0.17.0
-pandas-profiling==4.8.3
 visions==0.7.6
 geopy
