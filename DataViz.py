@@ -23,7 +23,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 import io
-import streamlit_folium
 from sklearn.impute import SimpleImputer
 from pathlib import Path
 import os
