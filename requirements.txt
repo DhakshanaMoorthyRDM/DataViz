@@ -11,4 +11,4 @@ scikit-learn==1.5.0
 folium==0.17.0
 pandas-profiling==4.0.0
 visions==0.7.6
-
+geopy
